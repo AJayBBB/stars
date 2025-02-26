@@ -7,7 +7,10 @@
 
 - [analytics](#analytics)
 - [awesome](#awesome)
+- [chatbot](#chatbot)
+- [chatgpt](#chatgpt)
 - [cybersecurity](#cybersecurity)
+- [openai](#openai)
 - [others](#others)
 - [security](#security)
 
@@ -19,9 +22,21 @@
 
 - [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
 
+## chatbot 
+
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+## chatgpt 
+
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
 ## cybersecurity 
 
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+
+## openai 
+
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 ## others 
 
