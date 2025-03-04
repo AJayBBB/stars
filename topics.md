@@ -10,11 +10,13 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cybersecurity](#cybersecurity)
+- [discord](#discord)
 - [documentation](#documentation)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [llm](#llm)
 - [markdown](#markdown)
+- [monitoring](#monitoring)
 - [openai](#openai)
 - [others](#others)
 - [security](#security)
@@ -39,6 +41,10 @@
 
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
 
+## discord 
+
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
+
 ## documentation 
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
@@ -58,6 +64,10 @@
 ## markdown 
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## monitoring 
+
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 
 ## openai 
 
