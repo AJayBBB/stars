@@ -12,6 +12,7 @@
 - [cybersecurity](#cybersecurity)
 - [discord](#discord)
 - [documentation](#documentation)
+- [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [llm](#llm)
@@ -20,6 +21,7 @@
 - [openai](#openai)
 - [others](#others)
 - [security](#security)
+- [terminal](#terminal)
 
 ## analytics 
 
@@ -48,6 +50,10 @@
 ## documentation 
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## hacktoberfest 
+
+- [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 ## javascript 
 
@@ -89,6 +95,10 @@
 ## security 
 
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+
+## terminal 
+
+- [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 
 
 ## License
