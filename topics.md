@@ -12,16 +12,21 @@
 - [cybersecurity](#cybersecurity)
 - [discord](#discord)
 - [documentation](#documentation)
+- [electron](#electron)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [linux](#linux)
 - [llm](#llm)
+- [mac](#mac)
+- [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
 - [openai](#openai)
 - [others](#others)
 - [security](#security)
 - [terminal](#terminal)
+- [windows](#windows)
 
 ## analytics 
 
@@ -51,6 +56,10 @@
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
+## electron 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
 ## hacktoberfest 
 
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
@@ -63,9 +72,21 @@
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
+## linux 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
 ## llm 
 
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) - 
+
+## mac 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+## macos 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## markdown 
 
@@ -99,6 +120,10 @@
 ## terminal 
 
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+
+## windows 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 
 ## License
