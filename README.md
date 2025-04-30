@@ -16,7 +16,7 @@
 ## Go 
 
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) - 
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - AI Infrastructure Vulnerability Discovery and MCP Code Security Scanning Tool
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 
 ## HTML 
 
