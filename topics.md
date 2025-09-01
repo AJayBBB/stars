@@ -32,7 +32,7 @@
 
 ## ai 
 
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red-Teaming platform developed by Tencent's Zhuque Lab.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent's Zhuque Lab.
 
 ## analytics 
 
@@ -124,7 +124,7 @@
 
 ## security-tools 
 
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red-Teaming platform developed by Tencent's Zhuque Lab.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent's Zhuque Lab.
 
 ## terminal 
 
