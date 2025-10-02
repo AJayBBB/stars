@@ -23,6 +23,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [nextjs](#nextjs)
 - [openai](#openai)
 - [others](#others)
 - [security](#security)
@@ -32,6 +33,7 @@
 
 ## ai 
 
+- [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
 
 ## analytics 
@@ -102,6 +104,10 @@
 ## monitoring 
 
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
+
+## nextjs 
+
+- [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ## openai 
 
