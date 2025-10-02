@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [analytics](#analytics)
+- [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -26,19 +27,26 @@
 - [nextjs](#nextjs)
 - [openai](#openai)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [security](#security)
 - [security-tools](#security-tools)
+- [swiftui](#swiftui)
 - [terminal](#terminal)
 - [windows](#windows)
 
 ## ai 
 
+- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
 
 ## analytics 
 
 - [yestool/analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) - a simple web analytics use Cloudflare workers + D1 + Huno. 👉 https://webviso.yestool.org
+
+## artificial-intelligence 
+
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
 
 ## awesome 
 
@@ -54,6 +62,7 @@
 
 ## cybersecurity 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
 
 ## discord 
@@ -74,6 +83,7 @@
 
 ## javascript 
 
+- [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
 ## jquery 
@@ -86,6 +96,7 @@
 
 ## llm 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) - 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
 
@@ -95,6 +106,7 @@
 
 ## macos 
 
+- [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## markdown 
@@ -115,6 +127,10 @@
 
 ## others 
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+- [insulineru/ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers.
 - [forrany/Awesome-Ollama-Server](https://github.com/forrany/Awesome-Ollama-Server) - 这是一个用于监控和检测 Ollama 服务可用性和性能的系统。它提供了一个现代化的 Web 界面，支持多语言（中文/英文），并具有实时检测和数据展示功能。
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
 - [cnrstar/anti-honeypot](https://github.com/cnrstar/anti-honeypot) - 一款可以检测WEB蜜罐并阻断请求的Chrome插件
@@ -125,6 +141,10 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
 
+## penetration-testing 
+
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
+
 ## security 
 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
@@ -133,6 +153,10 @@
 ## security-tools 
 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
+
+## swiftui 
+
+- [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 
 ## terminal 
 
