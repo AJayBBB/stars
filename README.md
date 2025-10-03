@@ -12,11 +12,17 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Go 
 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) - 
 
 ## HTML 
@@ -25,6 +31,8 @@
 
 ## JavaScript 
 
+- [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [insulineru/ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -35,6 +43,7 @@
 
 ## Others 
 
+- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
 - [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
 - [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
 
@@ -44,6 +53,11 @@
 
 ## Python 
 
+- [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
+- [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+- [wbopan/moffee](https://github.com/wbopan/moffee) - moffee: Make Markdown Ready to Present
+- [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
 - [R0A1NG/Botgate_bypass](https://github.com/R0A1NG/Botgate_bypass) - 绕过瑞数waf的动态验证机制，实现请求包重放，理论支持不同网站环境使用，如网页、小程序、APP等。
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
@@ -53,12 +67,23 @@
 
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 
+## Shell 
+
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+
 ## Swift 
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 
 ## TypeScript 
 
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
+- [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer) - A sleek dataset viewer built entirely by AI Agent. Supports streaming large files from WebDAV, S3, SSH, Local or Hugging Face.
+- [oh-my-commit/oh-my-commit](https://github.com/oh-my-commit/oh-my-commit) - 🎨 Oh My Commit, Your Next-gen AI-powered Commit Solution.
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare) - 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers.
@@ -69,6 +94,10 @@
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
 - [yestool/analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) - a simple web analytics use Cloudflare workers + D1 + Huno. 👉 https://webviso.yestool.org
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+
+## Vue 
+
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 
 
 ## License
