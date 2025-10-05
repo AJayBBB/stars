@@ -5,8 +5,10 @@
 
 ## Contents
 
+- [C](#c)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Others](#others)
@@ -18,8 +20,14 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## C 
+
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
 ## Go 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -29,7 +37,12 @@
 
 ## HTML 
 
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+
+## Java 
+
+- [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）
 
 ## JavaScript 
 
@@ -46,10 +59,13 @@
 
 ## Kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [horsemail/yourtv](https://github.com/horsemail/yourtv) - 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and of
 - [AutoAccountingOrg/AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
 - [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
 - [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
@@ -60,6 +76,11 @@
 
 ## Python 
 
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
+- [lxflxfcl/monitor](https://github.com/lxflxfcl/monitor) - 漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
@@ -78,16 +99,24 @@
 
 ## Shell 
 
+- [CompassSecurity/Hacking_Tools_Cheat_Sheet](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet) - 
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
 ## Swift 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 
 ## TypeScript 
 
+- [RainManGO/3d-earth](https://github.com/RainManGO/3d-earth) - A beautiful 3D Earth 🌏
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+- [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
+- [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
