@@ -59,10 +59,12 @@
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [pwa](#pwa)
 - [python](#python)
 - [react](#react)
+- [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -379,6 +381,10 @@
 
 - [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
+## package-manager 
+
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+
 ## penetration-testing 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
@@ -394,6 +400,10 @@
 ## react 
 
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+
+## rust 
+
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 
 ## security 
 
