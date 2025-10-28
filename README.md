@@ -92,7 +92,7 @@
 - [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
 - [lxflxfcl/monitor](https://github.com/lxflxfcl/monitor) - 漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [wbopan/moffee](https://github.com/wbopan/moffee) - moffee: Make Markdown Ready to Present
