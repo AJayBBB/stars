@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [analytics](#analytics)
 - [api](#api)
@@ -65,6 +66,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
+- [portfolio-website](#portfolio-website)
 - [pwa](#pwa)
 - [python](#python)
 - [react](#react)
@@ -85,6 +87,10 @@
 - [vue](#vue)
 - [windows](#windows)
 - [youtube](#youtube)
+
+## agent 
+
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
 
 ## ai 
 
@@ -415,6 +421,10 @@
 ## penetration-testing 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+
+## portfolio-website 
+
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 
 ## pwa 
 
