@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -29,6 +30,10 @@
 ## C# # 
 
 - [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 10.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+
+## EJS 
+
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 
 ## Go 
 
@@ -58,6 +63,7 @@
 
 ## JavaScript 
 
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -95,6 +101,7 @@
 
 ## Python 
 
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [pureqh/webshell](https://github.com/pureqh/webshell) - 免杀webshell生成工具
