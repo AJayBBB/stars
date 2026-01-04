@@ -54,6 +54,7 @@
 - [mac](#mac)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [monero](#monero)
 - [monitoring](#monitoring)
@@ -343,6 +344,11 @@
 - [wbopan/moffee](https://github.com/wbopan/moffee) - moffee: Make Markdown Ready to Present
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## mcp 
+
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.
 
 ## microsoft 
 
