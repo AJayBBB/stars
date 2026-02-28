@@ -124,7 +124,7 @@
 - [wbopan/moffee](https://github.com/wbopan/moffee) - moffee: Make Markdown Ready to Present
 - [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a full-stack AI Red Teaming platform developed by Tencent Zhuque Lab that secures your AI ecosystem from infrastructure to agents.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via AI Infra scan, MCP scan, Agent skills scan, and LLM jailbreak evaluation.
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
 ## Rust 
