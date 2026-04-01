@@ -451,6 +451,8 @@
 
 ## others 
 
+- [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code) - Claude Code in Rust & a Breakdown of How it Works
+- [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) - It will be revised soon.
 - [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
