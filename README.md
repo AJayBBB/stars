@@ -112,6 +112,7 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Wherever your AI supports skills, VibeSkills works. 340+ governed skills spanning coding, research, automation & creative work.
 - [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) - 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
