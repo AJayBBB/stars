@@ -98,7 +98,6 @@
 - [shuhafsarmin638/mining-software](https://github.com/shuhafsarmin638/mining-software) - 2025年最佳比特币挖矿软件指南（支持 Windows、Mac、Linux）
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [KaWaIDeSuNe/dijiajichang](https://github.com/KaWaIDeSuNe/dijiajichang) - 2026低价机场推荐，不定期还有免费试用机场、白嫖机场、免费订阅 🚀推荐月10元以下的优质低价机场，解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，即将迎来重大更新。
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 
@@ -142,7 +141,7 @@
 
 ## Rust 
 
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
