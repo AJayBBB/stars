@@ -81,6 +81,7 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [portfolio-website](#portfolio-website)
+- [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -131,7 +132,7 @@
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 
 ## analytics 
@@ -155,7 +156,7 @@
 ## automation 
 
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 
 ## awesome 
 
@@ -203,7 +204,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) - 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -246,7 +247,7 @@
 
 ## developer-tools 
 
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 
 ## devops 
 
@@ -340,7 +341,7 @@
 
 ## http 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 ## javascript 
@@ -383,7 +384,7 @@
 
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -416,7 +417,6 @@
 ## mcp 
 
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
 ## microsoft 
@@ -564,6 +564,10 @@
 ## portfolio-website 
 
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+## prompt-engineering 
+
+- [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr
 
 ## pwa 
 
