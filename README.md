@@ -8,7 +8,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -38,10 +37,6 @@
 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 
-## Dockerfile 
-
-- [oritera/Cairn](https://github.com/oritera/Cairn) - AI 自动化通用问题解决 / AI 自动化渗透测试系统
-
 ## Go 
 
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -51,7 +46,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
@@ -124,6 +119,7 @@
 
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- [oritera/Cairn](https://github.com/oritera/Cairn) - A general-purpose state-space AI search engine, validated first on autonomous penetration testing.
 - [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 - [23Star/xianyu-super-butler](https://github.com/23Star/xianyu-super-butler) - 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
