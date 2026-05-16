@@ -126,6 +126,7 @@
 
 ## ai 
 
+- [1EchA/how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding) - Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -446,6 +447,7 @@
 
 ## mcp 
 
+- [1EchA/how-to-vibecoding](https://github.com/1EchA/how-to-vibecoding) - Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
@@ -517,7 +519,7 @@
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
 - [CRui5in/paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent) - Generate editable PPT decks from paper PDFs or LaTeX sources
-- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck.
+- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - describe what you need – presentation, lesson, or story – and let the AI build clean, beautiful HTML slides for you. Works offline, works for you.
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode
 - [different-ai/opencode-scheduler](https://github.com/different-ai/opencode-scheduler) - OpenCode plugin for scheduling recurring jobs using launchd (Mac) or systemd (Linux)
