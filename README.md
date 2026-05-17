@@ -186,7 +186,7 @@
 
 ## TypeScript 
 
-- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - describe what you need – presentation, lesson, or story – and let the AI build clean, beautiful HTML slides for you. Works offline, works for you.
+- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode
 - [different-ai/opencode-scheduler](https://github.com/different-ai/opencode-scheduler) - OpenCode plugin for scheduling recurring jobs using launchd (Mac) or systemd (Linux)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -231,7 +231,7 @@
 
 - [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - A free image hosting application based on Cloudflare's Worker, R2, Pages, and D1 architectures.一款基于 Cloudflare 的 Worker、R2、Pages、D1 实现的免费图床应用
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 
 
 ## License
