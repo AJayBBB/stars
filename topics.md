@@ -541,6 +541,9 @@
 
 ## others 
 
+- [AJayBBB/Newapi-checkin](https://github.com/AJayBBB/Newapi-checkin) - 【待测试，支持加签】NewAPI 自动签到系统 - 支持多账号、多站点、GitHub Actions 自动化
+- [Ginkgoooo/newapi-auto-checkin](https://github.com/Ginkgoooo/newapi-auto-checkin) - 基于 linux.do OAuth2 授权的多网站自动签到 Chrome 扩展，支持所有 New API 平台站点，智能绕过 Cloudflare 防护
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
