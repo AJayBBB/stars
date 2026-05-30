@@ -574,7 +574,7 @@
 - [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
 - [CRui5in/paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent) - Generate editable PPT decks from paper PDFs or LaTeX sources
 - [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode
 - [different-ai/opencode-scheduler](https://github.com/different-ai/opencode-scheduler) - OpenCode plugin for scheduling recurring jobs using launchd (Mac) or systemd (Linux)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
