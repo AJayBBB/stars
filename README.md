@@ -66,7 +66,6 @@
 
 ## HTML 
 
-- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
 - [AJayBBB/Newapi-checkin](https://github.com/AJayBBB/Newapi-checkin) - 【待测试，支持加签】NewAPI 自动签到系统 - 支持多账号、多站点、GitHub Actions 自动化
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
@@ -82,6 +81,7 @@
 
 ## JavaScript 
 
+- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [AJayBBB/Cyber-vibe-light](https://github.com/AJayBBB/Cyber-vibe-light) - 赛博氛围灯编程：hook light。用codex、claude code、gemini等客户端的hooks让对话状态拥有更明显的提示
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
