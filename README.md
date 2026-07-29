@@ -81,7 +81,7 @@
 
 ## JavaScript 
 
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding Course Beginners to Master Step by Step.
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [AJayBBB/Cyber-vibe-light](https://github.com/AJayBBB/Cyber-vibe-light) - 赛博氛围灯编程：hook light。用codex、claude code、gemini等客户端的hooks让对话状态拥有更明显的提示
