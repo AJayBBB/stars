@@ -96,6 +96,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [programming](#programming)
 - [prompt-engineering](#prompt-engineering)
@@ -766,6 +767,10 @@
 
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 
+## portfolio 
+
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
 ## portfolio-website 
 
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
@@ -904,7 +909,6 @@
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
