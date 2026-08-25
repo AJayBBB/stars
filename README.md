@@ -37,6 +37,7 @@
 
 ## C++ 
 
+- [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 
 ## Dart 
