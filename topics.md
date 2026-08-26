@@ -17,6 +17,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
@@ -229,6 +230,10 @@
 
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
+## bot 
+
+- [sefinek/trusted-ips-whitelist](https://github.com/sefinek/trusted-ips-whitelist) - Collection of IP addresses used by legitimate crawlers and services: Googlebot, Bingbot, AhrefsBot, UptimeRobot, Pingdom, Cloudflare, Bunny CDN, Stripe, Shodan, FacebookBot, TelegramBot, and more.
+
 ## bugbounty 
 
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -328,6 +333,7 @@
 
 ## crawler 
 
+- [sefinek/trusted-ips-whitelist](https://github.com/sefinek/trusted-ips-whitelist) - Collection of IP addresses used by legitimate crawlers and services: Googlebot, Bingbot, AhrefsBot, UptimeRobot, Pingdom, Cloudflare, Bunny CDN, Stripe, Shodan, FacebookBot, TelegramBot, and more.
 - [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
 
 ## cryptocurrency 
@@ -828,6 +834,7 @@
 
 ## security 
 
+- [sefinek/trusted-ips-whitelist](https://github.com/sefinek/trusted-ips-whitelist) - Collection of IP addresses used by legitimate crawlers and services: Googlebot, Bingbot, AhrefsBot, UptimeRobot, Pingdom, Cloudflare, Bunny CDN, Stripe, Shodan, FacebookBot, TelegramBot, and more.
 - [SecNN/AiScan-N](https://github.com/SecNN/AiScan-N) - AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
