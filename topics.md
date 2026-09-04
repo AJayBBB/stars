@@ -58,6 +58,7 @@
 - [good-first-issue](#good-first-issue)
 - [gui](#gui)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -170,7 +171,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
 - [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer) - A sleek dataset viewer built entirely by AI Agent. Supports streaming large files from WebDAV, S3, SSH, Local or Hugging Face.
@@ -456,13 +457,19 @@
 
 ## hacking 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
+## hacking-tool 
+
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
+
 ## hacking-tools 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
 ## hacktoberfest 
@@ -765,12 +772,14 @@
 
 ## penetration-testing 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## pentesting 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [SecNN/AiScan-N](https://github.com/SecNN/AiScan-N) - AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
@@ -840,6 +849,7 @@
 
 ## security 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [sefinek/trusted-ips-whitelist](https://github.com/sefinek/trusted-ips-whitelist) - Collection of IP addresses used by legitimate crawlers and services: Googlebot, Bingbot, AhrefsBot, UptimeRobot, Pingdom, Cloudflare, Bunny CDN, Stripe, Shodan, FacebookBot, TelegramBot, and more.
 - [SecNN/AiScan-N](https://github.com/SecNN/AiScan-N) - AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
@@ -855,6 +865,7 @@
 
 ## security-tools 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [SecNN/AiScan-N](https://github.com/SecNN/AiScan-N) - AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
