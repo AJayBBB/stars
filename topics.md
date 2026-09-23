@@ -944,7 +944,7 @@
 
 ## v2ray 
 
-- [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
+- [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - 🗽Бесплатные и проверенные VPN/Tor конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN/Tor configurations that work in Russia ⚪ Whitelists bypass
 - [KaWaIDeSuNe/dijiajichang](https://github.com/KaWaIDeSuNe/dijiajichang) - 2026低价机场推荐，不定期还有免费试用机场、白嫖机场、免费订阅 🚀推荐月10元以下的优质低价机场，解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
 
 ## video 
@@ -957,7 +957,7 @@
 
 ## vpn 
 
-- [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
+- [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - 🗽Бесплатные и проверенные VPN/Tor конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN/Tor configurations that work in Russia ⚪ Whitelists bypass
 
 ## vue 
 
