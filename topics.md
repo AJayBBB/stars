@@ -692,6 +692,7 @@
 
 ## others 
 
+- [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 - [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
