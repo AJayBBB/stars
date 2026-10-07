@@ -219,6 +219,7 @@
 
 ## Swift 
 
+- [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
