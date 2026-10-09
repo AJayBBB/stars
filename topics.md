@@ -706,9 +706,9 @@
 
 ## others 
 
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [netcccyun/wxredirect](https://github.com/netcccyun/wxredirect) - 微信公众号多域名回调系统
-- [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 - [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
