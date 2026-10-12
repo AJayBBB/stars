@@ -723,6 +723,7 @@
 
 ## others 
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [netcccyun/wxredirect](https://github.com/netcccyun/wxredirect) - 微信公众号多域名回调系统
