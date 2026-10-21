@@ -32,6 +32,7 @@
 - [cloud](#cloud)
 - [code](#code)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
 - [computer-vision](#computer-vision)
@@ -161,6 +162,7 @@
 
 ## agents 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## ai 
@@ -199,6 +201,7 @@
 
 ## ai-agents 
 
+- [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,
 - [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -309,6 +312,7 @@
 
 ## claude-code 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -337,6 +341,7 @@
 
 ## cli 
 
+- [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
@@ -356,6 +361,10 @@
 ## code-quality 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+## code-review 
+
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 
 ## coding 
 
@@ -694,6 +703,7 @@
 
 ## obsidian 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 
 ## open-source 
@@ -724,6 +734,8 @@
 
 ## others 
 
+- [spoons-and-mirrors/subtask2](https://github.com/spoons-and-mirrors/subtask2) - A stronger opencode /command handler
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
@@ -816,6 +828,7 @@
 
 ## package-manager 
 
+- [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 
 ## penetration-testing 
@@ -985,6 +998,7 @@
 
 ## typescript 
 
+- [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
