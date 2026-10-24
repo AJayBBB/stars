@@ -47,6 +47,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [fastapi](#fastapi)
@@ -436,6 +437,12 @@
 ## documentation 
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## downloader 
+
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 
 ## dsh-plugin 
 
