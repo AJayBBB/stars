@@ -77,6 +77,7 @@
 - [jquery](#jquery)
 - [json](#json)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [learning](#learning)
 - [linux](#linux)
@@ -619,6 +620,11 @@
 ## kali-linux 
 
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+
+## knowledge-graph 
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 ## kotlin 
 
