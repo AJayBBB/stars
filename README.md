@@ -47,6 +47,7 @@
 
 - [wangwanjie/gately](https://github.com/wangwanjie/gately) - Open-source, auditable network gateway for homelabs, NAS and servers: DDNS, STUN traversal, port forwarding with SNI routing, reverse proxy and web server, ACME certificates, WAF, Tailscale, frp, Clou
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
@@ -256,7 +257,6 @@
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
