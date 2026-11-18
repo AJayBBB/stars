@@ -161,6 +161,7 @@
 
 ## Python 
 
+- [ihmily/StreamCap](https://github.com/ihmily/StreamCap) - Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
 - [yujian0815/fnmedia-ext](https://github.com/yujian0815/fnmedia-ext) - 飞牛影视在线资源扩展：原生搜索聚合苹果CMS资源站、多线路播放、播放记录与智能续播（fnOS FPK）
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
