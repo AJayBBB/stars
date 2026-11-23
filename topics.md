@@ -293,7 +293,7 @@
 ## awesome-list 
 
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 74 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
 ## bot 
@@ -355,7 +355,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 74 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
@@ -671,7 +671,7 @@
 
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 74 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  Vibe Coding 101｜Your First Course For AI Product Builders.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
